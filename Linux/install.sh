@@ -12,7 +12,7 @@ cp -r ./dist/* /opt/crosstask/crosstask/
 
 echo "[✓] Copyed successfully the important files to opt"
 
-ln -s /opt/crosstask/crosstask/crosstask-unix /usr/local/bin/wgui
+ln -s /opt/crosstask/crosstask/crosstask-unix /usr/local/bin/crosstask
 
 echo ""
 echo "[✓] Installation successfully!"
